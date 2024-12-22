@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "tropicalupdate:shell_block",
+    "tropicalupdate:shell_bricks",
+    "tropicalupdate:shell_brick_slab",
+    "tropicalupdate:shell_brick_stairs",
+    "tropicalupdate:chiseled_shell_block",
+    "tropicalupdate:chiseled_shell_bricks",
+    "tropicalupdate:shell_lantern"
+  ]
+}

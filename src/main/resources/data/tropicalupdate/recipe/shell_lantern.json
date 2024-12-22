@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "minecraft:nautilus_shell"
+    },
+    "$": {
+      "item": "minecraft:prismarine_crystals"
+    }
+  },
+  "pattern": [
+    "#$#",
+    "$$$",
+    "#$#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "tropicalupdate:shell_block"
+  }
+}

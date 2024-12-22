@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "tropicalupdate:block/thatches_side",
+    "top": "tropicalupdate:block/thatches_side",
+    "side": "tropicalupdate:block/thatches_side"
+  }
+}

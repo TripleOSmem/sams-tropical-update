@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "ceiling=true": {"model": "tropicalupdate:block/low_fern", "x": 0},
+    "ceiling=false": {"model": "tropicalupdate:block/low_fern", "x": 180}
+  }
+}

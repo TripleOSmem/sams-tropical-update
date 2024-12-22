@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "ceiling=true": {"model": "tropicalupdate:block/reina_del_noche", "x": 0},
+    "ceiling=false": {"model": "tropicalupdate:block/reina_del_noche", "x": 180}
+  }
+}

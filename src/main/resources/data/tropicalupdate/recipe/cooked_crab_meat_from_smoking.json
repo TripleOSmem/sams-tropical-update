@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "cookingtime": 100,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "tropicalupdate:raw_crab_meat"
+  },
+  "result": {
+    "id": "tropicalupdate:cooked_crab_meat"
+  }
+}

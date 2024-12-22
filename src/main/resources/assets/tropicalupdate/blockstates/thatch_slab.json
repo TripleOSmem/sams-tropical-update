@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "tropicalupdate:block/thatch_slab"
+    },
+    "type=double": {
+      "model": "tropicalupdate:block/thatches"
+    },
+    "type=top": {
+      "model": "tropicalupdate:block/thatch_slab_top"
+    }
+  }
+}

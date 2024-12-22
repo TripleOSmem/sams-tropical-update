@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "tropicalupdate:block/flowering_lilypad"
+      },
+      {
+        "model": "tropicalupdate:block/flowering_lilypad",
+        "y": 90
+      },
+      {
+        "model": "tropicalupdate:block/flowering_lilypad",
+        "y": 180
+      },
+      {
+        "model": "tropicalupdate:block/flowering_lilypad",
+        "y": 270
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "tropicalupdate:block/shell_bricks",
+    "top": "tropicalupdate:block/shell_bricks",
+    "side": "tropicalupdate:block/shell_bricks"
+  }
+}

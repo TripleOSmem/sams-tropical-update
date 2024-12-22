@@ -1,0 +1,11 @@
+{
+  "item.minecraft.nautilus_shell": "Shell",
+
+  "item.minecraft.potion.effect.blindness":  "Potion of Blindness",
+  "item.minecraft.splash_potion.effect.blindness":  "Splash Potion of Blindness",
+  "item.minecraft.lingering_potion.effect.blindness": "Lingering Potion of Blindness",
+  "item.minecraft.tipped_arrow.effect.blindness": "Arrow of Blindness",
+
+  "advancements.husbandry.catch_firefly.description": "Catch a firefly in a bottle",
+  "advancements.husbandry.catch_firefly.title": "Gotcha!"
+}

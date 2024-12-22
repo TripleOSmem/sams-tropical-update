@@ -1,0 +1,53 @@
+{
+  "item.tropicalupdate.raw_crab_meat": "Raw Crab Meat",
+  "item.tropicalupdate.cooked_crab_meat": "Cooked Crab Meat",
+
+  "item.tropicalupdate.conch_shell": "Conch",
+
+  "item.tropicalupdate.crab_spawn_egg": "Crab Spawn Egg",
+  "item.tropicalupdate.river_dolphin_spawn_egg": "River Dolphin Spawn Egg",
+
+  "item.tropicalupdate.firefly_bottle": "Bottle of Firefly",
+
+  "block.tropicalupdate.thatches": "Thatches",
+  "block.tropicalupdate.shell_block": "Block of Shells",
+  "block.tropicalupdate.shell_bricks": "Shell Bricks",
+  "block.tropicalupdate.shell_brick_slab": "Shell Brick Slab",
+  "block.tropicalupdate.shell_brick_stairs": "Shell Brick Stairs",
+  "block.tropicalupdate.chiseled_shell_block": "Chiseled Block of Shells",
+  "block.tropicalupdate.chiseled_shell_bricks": "Chiseled Shell Bricks",
+  "block.tropicalupdate.shell_lantern": "Shell Lantern",
+  "block.tropicalupdate.thatch_stairs": "Thatch Stacks",
+  "block.tropicalupdate.thatch_slab": "Thatch Layers",
+  "block.tropicalupdate.shelly_sand": "Shelly Sand",
+
+  "block.tropicalupdate.angler_tiki": "Angler Tiki",
+  "block.tropicalupdate.archer_tiki": "Archer Tiki",
+  "block.tropicalupdate.arms_up_tiki": "Arms Up Tiki",
+  "block.tropicalupdate.blade_tiki": "Blade Tiki",
+  "block.tropicalupdate.burn_tiki": "Burn Tiki",
+  "block.tropicalupdate.brewer_tiki": "Brewer Tiki",
+  "block.tropicalupdate.danger_tiki": "Danger Tiki",
+  "block.tropicalupdate.explorer_tiki": "Explorer Tiki",
+  "block.tropicalupdate.friend_tiki": "Friend Tiki",
+  "block.tropicalupdate.heart_tiki": "Heart Tiki",
+  "block.tropicalupdate.heartbreak_tiki": "Heartbreak Tiki",
+  "block.tropicalupdate.howl_tiki": "Howl Tiki",
+  "block.tropicalupdate.miner_tiki": "Miner Tiki",
+  "block.tropicalupdate.mourner_tiki": "Mourner Tiki",
+  "block.tropicalupdate.plenty_tiki": "Plenty Tiki",
+  "block.tropicalupdate.prize_tiki": "Prize Tiki",
+  "block.tropicalupdate.sheaf_tiki": "Sheaf Tiki",
+  "block.tropicalupdate.shelter_tiki": "Shelter Tiki",
+  "block.tropicalupdate.skull_tiki": "Skull Tiki",
+  "block.tropicalupdate.snort_tiki": "Snort Tiki",
+
+  "block.tropicalupdate.low_fern": "Small Fern",
+  "block.tropicalupdate.reina_del_noche": "Reina del Noche",
+  "block.tropicalupdate.flowering_lilypad": "Blossomed Lily Pad",
+
+  "entity.tropicalupdate.crabby": "Crab",
+  "entity.tropicalupdate.firefly": "Firefly",
+  "entity.tropicalupdate.mother_firefly_entity": "Mother Firefly Entity",
+  "entity.tropicalupdate.river_dolphin": "River Dolphin"
+}

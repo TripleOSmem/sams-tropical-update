@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:husbandry/root",
+  "criteria": {
+    "catch_firefly": {
+      "conditions": {
+        "items": [
+          {
+            "items": "tropicalupdate:firefly_bottle"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.husbandry.catch_firefly.description"
+    },
+    "hidden": true,
+    "icon": {
+      "count": 1,
+      "id": "tropicalupdate:firefly_bottle"
+    },
+    "title": {
+      "translate": "advancements.husbandry.catch_firefly.title"
+    }
+  },
+  "requirements": [
+    [
+      "catch_firefly"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "tropicalupdate",
+	"version": "${version}",
+	"name": "Sam's Tropical Update",
+	"description": "An overhaul of the jungles, swamps, and rivers!",
+	"authors": [
+		"Triple0Smem"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/tropicalupdate/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.sam.tropicalupdate.SamsTropicalUpdate"
+		],
+		"fabric-datagen": [
+			"net.sam.tropicalupdate.SamsTropicalUpdateDataGenerator"
+		],
+		"client": [
+			"net.sam.tropicalupdate.SamsTropicalUpdateClient"
+		]
+	},
+	"mixins": [
+		"tropicalupdate.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.9",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

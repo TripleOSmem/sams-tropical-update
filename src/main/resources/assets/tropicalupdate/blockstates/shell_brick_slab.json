@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "tropicalupdate:block/shell_brick_slab"
+    },
+    "type=double": {
+      "model": "tropicalupdate:block/shell_bricks"
+    },
+    "type=top": {
+      "model": "tropicalupdate:block/shell_brick_slab_top"
+    }
+  }
+}

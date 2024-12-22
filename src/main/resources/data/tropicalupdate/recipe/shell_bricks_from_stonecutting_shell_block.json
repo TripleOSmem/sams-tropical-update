@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "tropicalupdate:shell_block"
+  },
+  "result": {
+    "count": 1,
+    "id": "tropicalupdate:shell_bricks"
+  }
+}

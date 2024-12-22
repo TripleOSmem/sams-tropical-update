@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:placed_feature",
+  "feature": "tropicalupdate:jungle_river_feature_placed",
+  "placement": [
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

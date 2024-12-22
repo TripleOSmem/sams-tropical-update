@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "tropicalupdate:block/chiseled_shell_block_side",
+    "up": "tropicalupdate:block/chiseled_shell_block_top",
+    "down": "tropicalupdate:block/chiseled_shell_block_top",
+    "north": "tropicalupdate:block/chiseled_shell_block_side",
+    "south": "tropicalupdate:block/chiseled_shell_block_side",
+    "east": "tropicalupdate:block/chiseled_shell_block_side",
+    "west": "tropicalupdate:block/chiseled_shell_block_side"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": {"model": "tropicalupdate:block/howl_tiki", "y": 90},
+    "facing=west": {"model": "tropicalupdate:block/howl_tiki", "y": 180},
+    "facing=south": {"model": "tropicalupdate:block/howl_tiki", "y": 270},
+    "facing=east": {"model": "tropicalupdate:block/howl_tiki", "y": 0}
+  }
+}

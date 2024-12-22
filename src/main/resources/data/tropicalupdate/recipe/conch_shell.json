@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "   ",
+    "#%$",
+    "   "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:nautilus_shell"
+    },
+    "$": {
+      "item": "minecraft:copper_ingot"
+    },
+    "%": {
+      "tag": "minecraft:creeper_drop_music_discs"
+    }
+  },
+  "result": {
+    "id": "tropicalupdate:conch_shell",
+    "count": 1
+  }
+}

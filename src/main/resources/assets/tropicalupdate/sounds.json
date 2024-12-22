@@ -1,0 +1,26 @@
+{
+  "crab_hurt": {
+    "subtitle": "Crab hurts",
+    "sounds": [
+      "tropicalupdate:crab_hurt"
+    ]
+  },
+  "crab_death": {
+    "subtitle": "Crab dies",
+    "sounds": [
+      "tropicalupdate:crab_death"
+    ]
+  },
+  "chewing_firefly": {
+    "subtitle": "Firefly chewed",
+    "sounds": [
+      "tropicalupdate:chewing_firefly"
+    ]
+  },
+  "vines_snap": {
+    "subtitle": "Vines snap",
+    "sounds": [
+      "tropicalupdate:vines_snap"
+    ]
+  }
+}

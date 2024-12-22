@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "tropicalupdate:block/thatches_side",
+    "up": "tropicalupdate:block/thatches_top",
+    "down": "tropicalupdate:block/thatches_top",
+    "north": "tropicalupdate:block/thatches_side",
+    "south": "tropicalupdate:block/thatches_side",
+    "east": "tropicalupdate:block/thatches_side",
+    "west": "tropicalupdate:block/thatches_side"
+  }
+}

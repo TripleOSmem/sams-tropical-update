@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "tropicalupdate:shell_bricks"
+  },
+  "result": {
+    "count": 1,
+    "id": "tropicalupdate:chiseled_shell_bricks"
+  }
+}
